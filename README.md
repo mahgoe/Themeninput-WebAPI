@@ -47,6 +47,8 @@
 
 ### JSON Web Token (JWT)
 
+Zum Testen der [Encode](https://jwt.io/) und [Decode](https://www.jstoolset.com/jwt) auf diesen folgenden Webseiten.
+
 - **Grundkonzept**: Ein kompaktes und selbstständiges Mittel für sicher übertragene Informationen zwischen Parteien.
 - **Struktur**: Besteht aus drei Teilen – Header, Payload und Signature.
   - _Header_: Enthält Informationen über den Typ des Tokens (JWT) und das verwendete Verschlüsselungsverfahren.
