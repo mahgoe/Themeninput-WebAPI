@@ -30,7 +30,7 @@
 - **Benutzerverwaltung**: System zur Verwaltung von Benutzeridentitäten und Zugriffsrechten.
 - **Rate Limiting**: Mechanismen zur Begrenzung der Anzahl der Anfragen, um Missbrauch zu verhindern.
 - **Protokollierung und Überwachung**: Aufzeichnung von API-Zugriffen zur Analyse und Erkennung ungewöhnlicher Aktivitäten.
-- **Aktualisierte Software**: Gewährleistung, dass alle Systemkomponenten auf dem neuesten Stand sind, um bekannte Sicherheitslücken zu schließen.
+- **Aktualisierte Software**: Gewährleistung, dass alle Systemkomponenten auf dem neuesten Stand sind, um bekannte Sicherheitslücken zu schliessen.
 
 ### Token-basierte Authentifizierung
 
